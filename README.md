@@ -4,7 +4,9 @@ Congratulations on your journey to mastering Object-Oriented Programming (OOP) c
 Your task is to complete the provided Java code, and run the test cases in the project. All of them must pass for this exercise to be considered COMPLETED. The exercise involves completing the Book class, defining its structure with private fields, and ensuring it follows the principles of encapsulation. Next, you'll modify the Library class, which manages a collection of books, allowing for the addition of new books, displaying the entire library, etc. 
 
 This hands-on exercise is designed to reinforce your understanding of OOP concepts in Java. Take this opportunity to apply what you've learned about classes, access modifiers, methods, etc. Good luck! 
- 
+
+
+## Helpful resources 
 To complete this lab, you might find the following resources helpful: 
 
 Object-Oriented Programming Concepts (Oracle): https://docs.oracle.com/javase/tutorial/java/concepts/
