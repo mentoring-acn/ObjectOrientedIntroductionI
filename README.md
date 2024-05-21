@@ -13,15 +13,15 @@ What is Object Orientation? (Pluralsight): https://app.pluralsight.com/ilx/video
 
 Working with Classes and Interfaces in Java 11 (Pluralsight): https://app.pluralsight.com/library/courses/working-classes-interfaces-java/table-of-contents
 
-##Prerequisites:
-####1. Download and install JDK 17 (at a minimum) from this link: https://www.oracle.com/java/technologies/downloads/
-####2. Download and install Spring Tool Suite for Eclipse from this link: https://spring.io/tools
-####3. Download and install Git from this link: https://git-scm.com/downloads
+## Prerequisites:
+#### 1. Download and install JDK 17 (at a minimum) from this link: https://www.oracle.com/java/technologies/downloads/
+#### 2. Download and install Spring Tool Suite for Eclipse from this link: https://spring.io/tools
+#### 3. Download and install Git from this link: https://git-scm.com/downloads
 
-##Completing this lab:
-####1. Clone this Git repository locally
-####2. Open the repository in Spring Tool Suite by going to File/Open Projects From File System
-####3. Navigate to the com.example.demo.model package. You'll see the Book and Library classes. Model them based on the information below:
+## Completing this lab:
+#### 1. Clone this Git repository locally
+#### 2. Open the repository in Spring Tool Suite by going to File/Open Projects From File System
+#### 3. Navigate to the com.example.demo.model package. You'll see the Book and Library classes. Model them based on the information below:
 
 
 Here's an overview of the classes involved: 
@@ -49,5 +49,5 @@ Methods
 * toString(): String – String representation of the library. 
 * Getter and Setter. 
 
-####4. Go to the com.example.demo package in the test packages, open the ObjectOrientedIntroductionIApplicationTests class, and then go to Run/Run As/JUnit Test.
+#### 4. Go to the com.example.demo package in the test packages, open the ObjectOrientedIntroductionIApplicationTests class, and then go to Run/Run As/JUnit Test.
 For this lab to be considered complete, please provide a screenshot off ALL the test cases passing to the person that assigned this lab to you.
