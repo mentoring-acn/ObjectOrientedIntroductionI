@@ -52,4 +52,6 @@ Methods
 * Getter and Setter. 
 
 #### 4. Go to the com.example.demo package in the test packages, open the ObjectOrientedIntroductionIApplicationTests class, and then go to Run/Run As/JUnit Test.
+![alt text](https://github.com/mentoring-acn/ObjectOrientedIntroductionI/blob/main/src/main/resources/static/RunningTests.png)
+
 For this lab to be considered complete, please provide a screenshot off ALL the test cases passing to the person that assigned this lab to you.

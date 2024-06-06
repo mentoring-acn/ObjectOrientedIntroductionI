@@ -14,12 +14,12 @@ public class Book {
 	}
 
 	public String getTitle() {
-		//EXERCISE: Add code here
+		return title;
 		
 	}
 
 	public void setTitle(String title) {
-		//EXERCISE: Add code here
+		this.title=title;
 		
 	}
 
